@@ -2,5 +2,6 @@
 	"name": "Hexacell",
 	"author": "v-v",
 	"descritpion": "Пока тестовый мод",
-	"version": 0.1
+	"version": 0.1,
+	"minGameVersion": "150"
 }
