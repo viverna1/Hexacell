@@ -1,0 +1,10 @@
+{
+    "type": "material",
+    "name": "Bauxite",
+    "description": "A common ore used in the production of aluminum.",
+
+    "hardness": 1,
+    "cost": 2,
+    "color": "D2B48C",
+    "tier": 1
+}
