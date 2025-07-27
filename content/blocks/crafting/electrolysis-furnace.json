@@ -1,0 +1,36 @@
+type: "GenericCrafter"
+name: "Electrolysis furnace"
+description: "Combines iron and nickel to produce steel"
+
+itemCapacity: 20
+health: 250
+size: 2
+
+hasPower: true
+hasItems: true
+craftTime: 30
+
+buildCostMultiplier: 0.8
+drawLiquidLight: true
+
+consumes: {
+  items: {
+    items: [
+      bauxite/1
+    ]
+  }
+}
+outputItem: aluminum/1
+
+requirements: [
+  lead/200
+  graphite/200
+]
+
+category: crafting
+craftEffect: smeltsmoke
+ambientSound: smelter
+ambientSoundVolume: 0.05
+
+hasColor: true
+mapColor: ffffff

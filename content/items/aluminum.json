@@ -1,0 +1,12 @@
+name: "Aluminum"
+description: "A lightweight metal used in various applications."
+
+hardness: 1
+cost: 2
+color: "fbfaf4"
+tier: 2
+
+flammability: 0
+radioactivity: 0
+explosiveness: 0
+charge: 0

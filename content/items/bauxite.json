@@ -1,12 +1,12 @@
-name: "Bauxite",
-description: A common ore used in the production of aluminum.,
+name: "Bauxite"
+description: "A common ore used in the production of aluminum."
 
-hardness: 1,
-cost: 1,
-color: "ff6957",
-tier: 1,
+hardness: 1
+cost: 1
+color: "ff6957"
+tier: 1
 
-flammability: 0,
-radioactivity: 0,
-explosiveness: 0,
+flammability: 0
+radioactivity: 0
+explosiveness: 0
 charge: 0
