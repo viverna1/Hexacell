@@ -1,0 +1,13 @@
+name: "Bauxite Wall"
+description: "A wall made from bauxite, providing strong defense against attacks."
+
+health: 500
+size: 1
+
+requirements: [
+    bauxite/6
+]
+
+type: "wall"
+category: defense
+research: "router"
