@@ -1,7 +1,5 @@
-{
-	"name": "Hexacell",
-	"author": "v-v",
-	"description": "adds new content",
-	"version": 0.1,
-	"minGameVersion": "147"
-}
+name: "Hexacell",
+author: "v-v",
+description: "adds new content",
+version: 0.11,
+minGameVersion: "147"
